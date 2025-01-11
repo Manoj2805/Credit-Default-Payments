@@ -42,7 +42,7 @@ This project focuses on creating a predictive model to assess the likelihood of 
 # Objective
 The objective of this project is to leverage machine learning models to predict whether a client will default on their next month's credit card payment based on various financial and behavioral attributes. This is achieved through exploratory data analysis, feature engineering, dimensionality reduction, and classification models.
 
-Features
+
 # Dataset Overview:
 The dataset consists of the following key columns:
 
@@ -87,5 +87,5 @@ Random Forest Score: (0.8104)
 AdaBoost Score: (0.8068)
 XGBoost Score: (0.8063)
 LightGBM Score: (0.8127)
-Why LightGBM?
+# Why LightGBM?
 The LightGBM model achieved the best performance in terms of accuracy and computational efficiency, making it the chosen model for this project.
